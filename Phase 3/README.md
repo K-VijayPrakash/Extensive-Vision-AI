@@ -1,4 +1,4 @@
-## PHASE 2 : REAL ROBOTICS
+## PHASE 3 : REAL ROBOTICS
 
 ### Lecture Titles :
 
