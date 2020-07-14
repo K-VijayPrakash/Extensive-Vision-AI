@@ -5,7 +5,7 @@
 <ul>   
 <li>Serverless Computing : Build and run applications without thinking about servers <br>
   
-[Serverless Computing](./CONTENT.md#serverless-computing) : It's not like we aren't using servers, without servers can't change the content dynamically. Cloud service provider will take care of servers and resource management.
+[Serverless Computing](./CONTENT.md#serverless-computing) : It's not like we aren't using servers, without servers can't change the content dynamically.With serverless computing,application still runs on servers, but all the server management is done by serive provider.
 
 <li>AWS Lambda <br>
 <li>What is Serverless Framework? <br>
