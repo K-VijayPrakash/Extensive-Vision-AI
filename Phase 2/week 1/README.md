@@ -2,9 +2,11 @@
 
    *`Train, Dockerize and then deploy your model on AWS.`*
 
-[Serverless Computing](./CONTENT.md#serverless-computing)
 <ul>   
-<li>[Serverless Computing](./CONTENT.md#section) <br>
+<li>Serverless Computing <br>
+  
+[Serverless Computing](./CONTENT.md#serverless-computing)
+
 <li>AWS Lambda <br>
 <li>What is Serverless Framework? <br>
 <li>What exactly are we going to do? <br>
