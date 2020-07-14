@@ -3,9 +3,9 @@
    *`Train, Dockerize and then deploy your model on AWS.`*
 
 <ul>   
-<li>Serverless Computing <br>
+<li>Serverless Computing : Build and run applications without thinking about servers <br>
   
-[Serverless Computing](./CONTENT.md#serverless-computing)
+[Serverless Computing](./CONTENT.md#serverless-computing) : It's not like we aren't using servers, without servers can't change the content dynamically. Cloud service provider will take care of servers and resource management.
 
 <li>AWS Lambda <br>
 <li>What is Serverless Framework? <br>
