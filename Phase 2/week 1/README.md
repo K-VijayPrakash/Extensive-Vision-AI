@@ -2,7 +2,7 @@
 
    *`Train, Dockerize and then deploy your model on AWS.`*
 
-[Serverless Computing](serverless-computing)
+[Serverless Computing](./CONTENT.md#serverless-computing)
 <ul>   
 <li>[Serverless Computing](./CONTENT.md#section) <br>
 <li>AWS Lambda <br>
@@ -24,8 +24,3 @@
 <li>multipart/form-data <br>
 <li>testing our deployment <br>
 <li>Assignment <br>
-
-<section id="serverless-computing">
-<h2>Serverless Computing</h2>
-...
-</section>
